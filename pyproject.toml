@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "aoc2022-tomodachi94"
+version = "0.1.0"
+description = "Advent of Code solutions for 2022"
+authors = ["Tomo <68489118+Tomodachi94@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
